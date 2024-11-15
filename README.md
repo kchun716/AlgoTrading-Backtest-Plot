@@ -9,3 +9,6 @@ Candlestick Chart: Represents the daily price movement of SPY with clear indicat
 200-Day Moving Average (MA): Shown as an orange line to highlight long-term price trends and momentum.
 Buy and Sell Signals: Green triangles mark buy signals, while red inverted triangles denote sell signals, visually demonstrating entry and exit points based on the algorithm's strategy.
 Interactive Features: Users can hover over the chart to see specific data points and view details, making it easier to analyze the strategy's performance over time.
+
+## View the Interactive Chart
+[Click here to view the interactive trading strategy visualization]([https://yourusername.github.io/your-repo-name/advanced_trading_strategy_chart.html](https://kchun716.github.io/AlgoTrading-Backtest-Plot/advanced_trading_strategy_chart.html))
