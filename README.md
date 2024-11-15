@@ -11,5 +11,4 @@ Buy and Sell Signals: Green triangles mark buy signals, while red inverted trian
 Interactive Features: Users can hover over the chart to see specific data points and view details, making it easier to analyze the strategy's performance over time.
 
 ## View the Interactive Chart
-[Click here to view the interactive trading strategy visualization](https://kchun716.github.io/AlgoTrading-Backtest-Plot/advanced_trading_strategy_chart.html)
-
+<a href="https://kchun716.github.io/AlgoTrading-Backtest-Plot/advanced_trading_strategy_chart.html" target="_blank">Click here to view the interactive trading strategy visualization</a>
